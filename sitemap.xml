@@ -1,36 +1,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/briques/les-briques-de-nooloom</loc>
-    <lastmod>2026-10-31T07:09:18.031Z</lastmod>
+    <lastmod>2026-10-31T07:09:32.000Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/briques/marker-cloud</loc>
-    <lastmod>2026-10-31T07:09:18.031Z</lastmod>
+    <lastmod>2026-10-31T07:09:32.000Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/briques/meilisearch</loc>
-    <lastmod>2026-10-31T07:09:18.031Z</lastmod>
+    <lastmod>2026-10-31T07:09:32.000Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/briques/minio</loc>
-    <lastmod>2026-10-31T07:09:18.031Z</lastmod>
+    <lastmod>2026-10-31T07:09:32.000Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/briques/mongodb</loc>
-    <lastmod>2026-10-31T07:09:18.031Z</lastmod>
+    <lastmod>2026-10-31T07:09:32.000Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/briques/openrouter</loc>
-    <lastmod>2026-10-31T07:09:18.031Z</lastmod>
+    <lastmod>2026-10-31T07:09:32.000Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/briques/oxigraph</loc>
-    <lastmod>2026-10-31T07:09:18.031Z</lastmod>
+    <lastmod>2026-10-31T07:09:32.000Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/briques/playwright</loc>
-    <lastmod>2026-10-31T07:09:18.032Z</lastmod>
+    <lastmod>2026-10-31T07:09:32.000Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/briques/react</loc>
-    <lastmod>2026-10-31T07:09:18.032Z</lastmod>
+    <lastmod>2026-10-31T07:09:32.000Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/briques/redis</loc>
-    <lastmod>2026-10-31T07:09:18.032Z</lastmod>
+    <lastmod>2026-10-31T07:09:32.000Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/briques/temporal</loc>
-    <lastmod>2026-10-31T07:09:18.032Z</lastmod>
+    <lastmod>2026-10-31T07:09:32.000Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/lexique/lexique---connaissances</loc>
     <lastmod>2026-10-30T22:32:17.000Z</lastmod>
@@ -72,10 +72,10 @@
     <lastmod>2026-10-30T23:30:20.000Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/notes/extraction-documentaire</loc>
-    <lastmod>2026-10-30T23:30:20.000Z</lastmod>
+    <lastmod>2026-10-31T07:09:32.000Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/notes/extraction-web</loc>
-    <lastmod>2026-10-30T23:30:20.000Z</lastmod>
+    <lastmod>2026-10-31T07:09:32.000Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/notes/fiabilit%C3%A9-et-effets-partiels</loc>
     <lastmod>2026-10-30T23:30:20.000Z</lastmod>
@@ -96,7 +96,7 @@
     <lastmod>2026-10-30T23:30:20.000Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/notes/orchestration-et-jobs</loc>
-    <lastmod>2026-10-30T23:30:20.000Z</lastmod>
+    <lastmod>2026-10-31T07:09:32.000Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/notes/organisations-et-authentification</loc>
     <lastmod>2026-10-30T23:30:20.000Z</lastmod>
@@ -111,7 +111,7 @@
     <lastmod>2026-10-30T23:30:20.000Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/notes/recherche-hybride</loc>
-    <lastmod>2026-10-30T23:30:20.000Z</lastmod>
+    <lastmod>2026-10-31T07:09:32.000Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/notes/r%C3%A9conciliation-des-entit%C3%A9s-rdf</loc>
     <lastmod>2026-10-30T23:30:20.000Z</lastmod>
@@ -120,10 +120,10 @@
     <lastmod>2026-10-30T23:30:20.000Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/notes/services-et-responsabilit%C3%A9s</loc>
-    <lastmod>2026-10-30T23:30:20.000Z</lastmod>
+    <lastmod>2026-10-31T07:09:32.000Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/notes/stockages-et-circulation-des-donn%C3%A9es</loc>
-    <lastmod>2026-10-30T23:30:20.000Z</lastmod>
+    <lastmod>2026-10-31T07:09:32.000Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/notes/temporalit%C3%A9-et-provenance</loc>
     <lastmod>2026-10-30T23:30:20.000Z</lastmod>
@@ -132,7 +132,7 @@
     <lastmod>2026-10-30T22:32:17.000Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/parcours/architecture-technique</loc>
-    <lastmod>2026-10-30T22:32:17.000Z</lastmod>
+    <lastmod>2026-10-31T07:09:32.000Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/parcours/capacit%C3%A9s-fonctionnelles</loc>
     <lastmod>2026-10-30T22:32:17.000Z</lastmod>
@@ -144,83 +144,83 @@
     <lastmod>2026-10-30T22:32:17.000Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/</loc>
-    <lastmod>2026-10-30T23:30:20.000Z</lastmod>
+    <lastmod>2026-10-31T07:09:32.000Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/briques/</loc>
-    <lastmod>2026-10-31T07:09:23.250Z</lastmod>
+    <lastmod>2026-10-31T07:40:11.979Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/lexique/</loc>
-    <lastmod>2026-10-31T07:09:23.250Z</lastmod>
+    <lastmod>2026-10-31T07:40:11.979Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/notes/</loc>
-    <lastmod>2026-10-31T07:09:23.250Z</lastmod>
+    <lastmod>2026-10-31T07:40:11.979Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/parcours/</loc>
-    <lastmod>2026-10-31T07:09:23.250Z</lastmod>
+    <lastmod>2026-10-31T07:40:11.979Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/tags/architecture</loc>
-    <lastmod>2026-10-31T07:09:23.250Z</lastmod>
+    <lastmod>2026-10-31T07:40:11.979Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/tags/nooloom</loc>
-    <lastmod>2026-10-31T07:09:23.250Z</lastmod>
+    <lastmod>2026-10-31T07:40:11.979Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/tags/extraction</loc>
-    <lastmod>2026-10-31T07:09:23.250Z</lastmod>
+    <lastmod>2026-10-31T07:40:11.979Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/tags/extraction/documents</loc>
-    <lastmod>2026-10-31T07:09:23.250Z</lastmod>
+    <lastmod>2026-10-31T07:40:11.979Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/tags/connaissances</loc>
-    <lastmod>2026-10-31T07:09:23.250Z</lastmod>
+    <lastmod>2026-10-31T07:40:11.979Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/tags/connaissances/recherche</loc>
-    <lastmod>2026-10-31T07:09:23.250Z</lastmod>
+    <lastmod>2026-10-31T07:40:11.979Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/tags/architecture/infrastructure</loc>
-    <lastmod>2026-10-31T07:09:23.250Z</lastmod>
+    <lastmod>2026-10-31T07:40:11.979Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/tags/extraction/raffinage</loc>
-    <lastmod>2026-10-31T07:09:23.250Z</lastmod>
+    <lastmod>2026-10-31T07:40:11.979Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/tags/connaissances/conversation</loc>
-    <lastmod>2026-10-31T07:09:23.250Z</lastmod>
+    <lastmod>2026-10-31T07:40:11.979Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/tags/connaissances/rdf</loc>
-    <lastmod>2026-10-31T07:09:23.250Z</lastmod>
+    <lastmod>2026-10-31T07:40:11.979Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/tags/extraction/web</loc>
-    <lastmod>2026-10-31T07:09:23.250Z</lastmod>
+    <lastmod>2026-10-31T07:40:11.979Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/tags/architecture/interfaces</loc>
-    <lastmod>2026-10-31T07:09:23.250Z</lastmod>
+    <lastmod>2026-10-31T07:40:11.979Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/tags/execution</loc>
-    <lastmod>2026-10-31T07:09:23.250Z</lastmod>
+    <lastmod>2026-10-31T07:40:11.979Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/tags/documentation</loc>
-    <lastmod>2026-10-31T07:09:23.250Z</lastmod>
+    <lastmod>2026-10-31T07:40:11.979Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/tags/execution/quotas</loc>
-    <lastmod>2026-10-31T07:09:23.250Z</lastmod>
+    <lastmod>2026-10-31T07:40:11.979Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/tags/vigilance</loc>
-    <lastmod>2026-10-31T07:09:23.250Z</lastmod>
+    <lastmod>2026-10-31T07:40:11.979Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/tags/connaissances/bases</loc>
-    <lastmod>2026-10-31T07:09:23.250Z</lastmod>
+    <lastmod>2026-10-31T07:40:11.979Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/tags/architecture/exploitation</loc>
-    <lastmod>2026-10-31T07:09:23.250Z</lastmod>
+    <lastmod>2026-10-31T07:40:11.979Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/tags/extraction/crawl</loc>
-    <lastmod>2026-10-31T07:09:23.250Z</lastmod>
+    <lastmod>2026-10-31T07:40:11.979Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/tags/architecture/acces</loc>
-    <lastmod>2026-10-31T07:09:23.250Z</lastmod>
+    <lastmod>2026-10-31T07:40:11.979Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/tags/execution/planification</loc>
-    <lastmod>2026-10-31T07:09:23.250Z</lastmod>
+    <lastmod>2026-10-31T07:40:11.979Z</lastmod>
   </url><url>
     <loc>https://keskondi.github.io/nooloom-docs-site/tags/</loc>
-    <lastmod>2026-10-31T07:09:23.250Z</lastmod>
+    <lastmod>2026-10-31T07:40:11.979Z</lastmod>
   </url></urlset>
